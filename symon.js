@@ -65,7 +65,6 @@ function checkAns(idx){
            setTimeout(function(){
             document.querySelector("body").style.backgroundColor = 'white'
            },150)
-           highscore();
            reset();
     }
 
